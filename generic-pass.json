@@ -1,7 +1,7 @@
 
 {
-  "id": "3388000000022210396",
-  "classId": "b08d3de0-d8e8-4d48-92ab-15dd8325381d",
+  "id": "3388000000022207611",
+  "classId": "9937a886-0c22-4227-af47-da57d8f7fcad",
   "logo": {
     "sourceUri": {
       "uri": "https://dv1oh8li7xq0o.cloudfront.net/brands/4344839/brand_profile/1649650a21d048258d29810ea144656b/240_240.jpeg"
@@ -34,18 +34,18 @@
   "textModulesData": [
     {
       "header": "MEMBER ID",
-      "body": "M-0088",
+      "body": "M-0254",
       "id": "points"
     },
     {
       "header": "EXPIRY DATE",
-      "body": "20/03/2024",
+      "body": "01/02/2024",
       "id": "contacts"
     }
   ],
   "barcode": {
     "type": "QR_CODE",
-    "value": "https://theartsclub-dev-ed.develop.lightning.force.com/lightning/n/MemberLogin?C__Id=0035h00000yYub4AAC&C__firstName=Sheikh Zayed&C__lastName=undefined&C__Salutation=undefined&C__MemberId=M-0088",
+    "value": "https://theartsclub-dev-ed.develop.lightning.force.com/lightning/n/MemberLogin?C__Id=0035h00000yYub4&C__firstName=Sheikh&C__lastName=Zayed&C__Salutation=Mr.&C__MemberId=M-0254",
     "alternateText": null
   },
   "hexBackgroundColor": "#ccb685"
