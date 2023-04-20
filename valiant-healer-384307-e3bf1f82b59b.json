@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "valiant-healer-384307",
+  "private_key_id": "e3bf1f82b59badba4afc8f4f742af42bca780656",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0UL0F5baIsgYE\nOddV7XRabYOH/2g4VEceJsViAR9NItqWT0JgkuRTT7AJ9qHevqlx9yMl+1TMQy32\nI2PYyCg4w8Veu0YpOrWZfUNVXHYxgkA+J6kDL8OWdYBm6rq4kvyoqM896kAbeBU6\nNEPJjMFpwcJBjE5j0eqbCcXGS3K2NryHCfU6SnRaLnMr2jrPSe4qAgk9rAj/jl+G\nqK0GodIDKZEF9N6FnlZJsdyCV3kWoj/oLwugrQIeVaWS0RxBT4j/+96RSGo7rriv\nWttpaUGT9PZM2OJu5OQ75clLMHnnJFPOwHQdpHTEvAoDrNxv7qQK/qpiURP5wlgX\nJGHABNE1AgMBAAECggEATNxDjoF5+q+jx+Zd5zdGCwu2buCMbMJj5DLTnTBsRsWO\nFlcnrKHAqNCFceHK4vczpCwbs+N7pGwYadxxAaVkG7o7ZeN/BzEK2qfd7UNx8C2c\ns8HVFdIk1Xw1pOj2eZnSEBSQ7kvtUqgvqDVCFeYlRa69XpJvkbYXgkm6n4lmlstr\nsavVPn3+4ewdI1Z0AGQkh+QA7SJ/J+zPg23tPKsQYvQBrtrWlhGHuDVMJTpA23/W\n0vaBuWxHeCDnO/Cc/9hKWbivLg4NVTgsXPyiixnCArh/JswuOINUfB6u9NHRDMuA\nVWrCC15NyzdXjOpOLzNp4Lh4SgPkaJLRZCEgsz70iwKBgQDkmyVCgTBXRwq5hWQz\nki+KoEqOnadM7IEol7rK7Kuj8axoL+9oWbHp1s+PlwQJIOUtcLoGGRnp58cl7XqP\ny4jKznt3WaDUbC6nv9yGgqotzYyNxQZJw6VAOpwmfw9WVdRmTCsWsKqPH4EZCtd3\n0uULZmIu3ph0p1PSLzl4YsUgXwKBgQDJ7DM5lg+2r79IcZDX8Lcr1/jbPnyyjvCJ\nWOW2RhxiT9ryZ0BuqZ2NImtsGEavVemf10lI7Asweb5RRLlJUOlgWYLZ0wlnBE/o\no9z/7k75MfTCnmr+MwfXXWzaM+P61TByyEwosMNvIdq3mmxRbIzPTzaxkX4yu9/1\npbGszP4m6wKBgQDRHS43KI+8toqT6/YdypJcf4XT8VixYAJBzJGcwGO9ovtvjrGz\nxaCeY9YX5i9V3lZle6FepKV0toUQJ6yeTrOBuOFt6nnY9mCzKCkkje/31/fDU0AO\nR74pA7QE7uNruTWCohgkOFS8eTgRXT5+KFdGV1BmyU2yH8HoGTS777WchwKBgB9B\nECy5rXT5fwIXkfParn96zmohIewBc/nOaL/t2jbdZWZf1PlMB7bwvO/eUhKRmbfD\n+vPulUzLi0nI+WT/wR/Iuxg8Mhhf8n5v3qU+nbq0oM3+91ChVXVgYJjlr0QD+5vI\npQEnWxi4hMImhN2Vj7YG7NBPVNlFe0TqgLXehPhBAoGBAL3PRBIRBh7DoUiik71r\nxtqtQm4mBYdR2wY9sv//zxakOWBWRxIeclMC11NjgFRuNqP7EKQAGYJbX+mgg/2a\nFKNrhyasLyqMlQN78N/8A81MzZ/zypSNR50w8VW+erOLgj7S11AIHrizJIH+/KZx\nTbsDkFElSSoIpRAXecFR1sGu\n-----END PRIVATE KEY-----\n",
+  "client_email": "gpay-wallet@valiant-healer-384307.iam.gserviceaccount.com",
+  "client_id": "101044719158869205613",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gpay-wallet%40valiant-healer-384307.iam.gserviceaccount.com"
+}
