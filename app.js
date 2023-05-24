@@ -21,9 +21,9 @@ const bodyParser = require('body-parser');
 const { GoogleAuth } = require('google-auth-library'); 
 const jwt = require('jsonwebtoken');
 
-const serviceAccountFile = process.env.GOOGLE_APPLICATION_CREDENTIALS || './valiant-healer-384307-e3bf1f82b59b.json';
-const issuerId = process.env.WALLET_ISSUER_ID || '3388000000022211904';
-const classId = process.env.WALLET_CLASS_ID || 'a0984685-7d66-47fa-aed3-9285b9657a7a';
+const serviceAccountFile = process.env.GOOGLE_APPLICATION_CREDENTIALS || './tribal-drake-387709-a3da52f2f148.json';
+const issuerId = process.env.WALLET_ISSUER_ID || '3388000000022224969';
+const classId = process.env.WALLET_CLASS_ID || '8af797d3-acb6-493a-aae5-cafb7226073f';
 
 const PORT = process.env.PORT || 4000;
 const ORIGINS = process.env.URL || 'http://localhost:4000';
