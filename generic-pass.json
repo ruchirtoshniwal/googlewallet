@@ -1,22 +1,22 @@
 
 {
-  "id": "3388000000022224969",
-  "classId": "8af797d3-acb6-493a-aae5-cafb7226073f",
+  "id": "3388000000022256006",
+  "classId": "2a0bb6a0-40b9-4920-a44d-b950a3e8bcc1",
   "logo": {
     "sourceUri": {
-      "uri": "https://dv1oh8li7xq0o.cloudfront.net/brands/4344839/brand_profile/1649650a21d048258d29810ea144656b/240_240.jpeg"
+      "uri": "https://www.yash.com/campaign/images/yash-wh-logo.png"
     },
     "contentDescription": {
       "defaultValue": {
         "language": "en",
-        "value": "The Arts Club Dubai"
+        "value": "Yash Club Management"
       }
     }
   },
   "cardTitle": {
     "defaultValue": {
       "language": "en",
-      "value": "The Arts Club Dubai"
+      "value": "TYash Club Management"
     }
   },
   "subheader": {
@@ -28,24 +28,24 @@
   "header": {
     "defaultValue": {
       "language": "en",
-      "value": "Shiekh Zayed"
+      "value": "Rohan Agnihotri"
     }
   },
   "textModulesData": [
     {
       "header": "MEMBER ID",
-      "body": "M-0254",
+      "body": "M-0406",
       "id": "points"
     },
     {
       "header": "EXPIRY DATE",
-      "body": "01/02/2024",
+      "body": "31/07/2024",
       "id": "contacts"
     }
   ],
   "barcode": {
     "type": "QR_CODE",
-    "value": "https://theartsclub-dev-ed.develop.lightning.force.com/lightning/n/MemberLogin?C__Id=0035h00000yYub4&C__firstName=Sheikh&C__lastName=Zayed&C__Salutation=Mr.&C__MemberId=M-0254",
+    "value": "https://theartsclub-dev-ed.develop.lightning.force.com/lightning/n/MemberLogin?C__Id=0035h0000198S3a&C__firstName=Rohan&C__lastName=Agnihotri&C__Salutation=Mr.&C__MemberId=M-0406",
     "alternateText": null
   },
   "hexBackgroundColor": "#ccb685"
