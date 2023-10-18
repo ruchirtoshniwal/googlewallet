@@ -23,9 +23,9 @@ const jwt = require('jsonwebtoken');
 
 
 
-const serviceAccountFile = process.env.GOOGLE_APPLICATION_CREDENTIALS || './infra-mix-392006-85c816d78881.json';
-const issuerId = process.env.WALLET_ISSUER_ID || '3388000000022256006';
-const classId = process.env.WALLET_CLASS_ID || '2a0bb6a0-40b9-4920-a44d-b950a3e8bcc1';
+const serviceAccountFile = process.env.GOOGLE_APPLICATION_CREDENTIALS || './sharp-starlight-402412-fbae0cf0c2b7.json';
+const issuerId = process.env.WALLET_ISSUER_ID || '3388000000022285090';
+const classId = process.env.WALLET_CLASS_ID || 'b4b07d9d-302b-42f5-999b-223ac86d01ab';
  
 
 const PORT = process.env.PORT || 4000;

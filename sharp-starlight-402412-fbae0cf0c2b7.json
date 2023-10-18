@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sharp-starlight-402412",
+  "private_key_id": "fbae0cf0c2b7987bdbdea160d15c90b2ec58b78b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDINDueemn2uPhe\naeAfzASe9rUcOSYP/eRlEcBC6sMVVe+dM65bf2DA2efCvdm2jm8EbjCrH/NArmpQ\nKpaREQiafmM8SsNgZ7qBLAUs2IEiRpr8FTvFT8NJeDu04Opm1xE2aJLXfeKloqPS\nJe38RBohNnu2VKjnH6TrMVg+Yq5VfI8M1h9A5dkr+eDCmChBF5w1ZQS9TBI47+wh\njukSZOfWjG48QlEJS0xWFPeb2padmEIWr0pcYLWsTK3Fu0UTUYdnBYCiICYO7PvX\nzO6QUZ1XE9r8S1cZm/B9wiB4e80gDB9fYrIUIyP+A/HM1CwZAbaY2LutAOVS3QgV\nI49Z5WwVAgMBAAECggEACXAY7Wgk7aobn0vLcoRKJXpI4Gs7RZ648SDMmPr7NlrG\nQHlqu0p+c6jyGYacqFP/nMxbA/4uF/sA7QWM8orEho/1uqZlnnpVWviJx+ru74A3\nlzGjDzKq6KA/5E+EDVQPLirw3TLEh/1qTqJWHUHSn4UzgM1t5vNhcWryl4JMaKAw\nuhcDtN48qTMB+P8ewNbmy0VBFHjf0o6gHKc7qg1hBqIprgCEyhCone9q8IbqjZF1\nTMnDRkFLP6jswrXTiuqL7VEk+YdKqmX9g4Hn1G3xUxDUuu87rsc/IjQzlH61vRUH\nxDeec1SzgUpF7HhsvHp0MgbRWhMqAZ5LNXNWmrEz4QKBgQDtEAjBWPuQzlmGs11C\nf36Etkg+u6/NPR2sbixZME2BoazimwtFB0qZ4qnb3n3jUR7xSSUdlq8WGT5AeH9U\nbxGVWvDFOw0c+u5HA1U3BGfeOvcERmgbLPZ2B4Wsb9YMGr18ewrn0N8F6btY+lGV\n0NtuhVwy662uekZQAUJUFOFnhQKBgQDYMm9WCzgBEaDq5pQzhmF7FOFVNpqhFvZx\n+XUDiK4zSYgPMyildcOnlpcTn7Wv0eExdf3YFiWBKw0Q+6ZlVOcW+SQpWGLF/HMN\nCTcud1dEo942ZK/Eepf6sZ60ByHHK3FI7O22ti6g6v7fxdhKOSLJdzV9noWg7TJD\nmIlveD1vUQKBgQCqutSDYzFyPZqubzkoLigRLjJjs8pN9skLKSGZbjczuBuJ6/22\nziSFJYANkHR7pS2yumoXoDEiqjVyOxYA2ikAtskWUowEJhg7XoQdpnejzjWeh5Js\nl/o8UPiNktHGT+/N2dOl1oD4gjfiQg1F53BRbYxUQ/YG5ZsD/ZQmeA9J/QKBgCua\nsH3oMVl11sDJ1KY3uj16zp/DLZjD6ty99W3LCWdqszhtlwsYH2gTpVDd62UUrZiu\nNY55mQLeTfpY5wyU/S7S/Qohu3o3GnVMoIaMp1s+ubi6wgCcwT5cyKeCsLtc9bJB\npwgs4mauPs2fN6pwr6V2l6FIcactb+/WOhHzbGChAoGBAMsZnWpV8AL1U7QChntX\nCfebJIwtTAFuo2VucQC+IVVlikJrcoM1lKULMKDZquG0WTI+v6gB+e02eVJLpcjB\nNSzt/uzW1SYGUSAGsj9UNDTsWYZBQZVMe3Aav4BdGmSNO4aEeW2cbArC6fAHfv8K\niFY7MRE296Fh+IAl0UfN49/H\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-wallet8@sharp-starlight-402412.iam.gserviceaccount.com",
+  "client_id": "112448552082631207472",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-wallet8%40sharp-starlight-402412.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
