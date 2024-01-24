@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "apt-mark-412207",
+  "private_key_id": "b0f350f5c938ba6270a933447cdfab797c4497b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwdkKEYz+qh7Hi\nmDSjOr+sMdyviu2P9spiZxFZBgMHZT2QNiCB02q5h0psXYoloO0WUE49yGjjoKZa\nrTTFiapDv5svzIh1F+Lihx2wHmddHy2RqAdN27xYOkImCKYFJjL0PY2d3Q/qMKCc\ntgWavw3oCAVYIgLDK+ZoujxtXLMqr7gFyE6zTmRT0Ma2Wauu2iYNJyo1INSY35F+\n9uaUf/jJrMaIPrqwDO45qGr28l1TGgdZ7C7fSHLnoM2OuYWhDokZyLIdpjJGJ19A\nn/Ch/P0ybELWKSvYVPBLFcPgoxS9KBibbOpSZNieZs18JDvbeKq4C/2QkPuC8V86\nMpR9LBF1AgMBAAECggEAK1gVDSM6zXawx02nKkwBLjj+MeFAapsOSb7y2CjdoBiq\nV0ywTetiHOnCKl2MlCMT8WXu3gam2vjIO+AtJPNkbuk243YMM6TXHljdfjftoEZL\nAWriRmnZuNswidqYew3PuMYQzcyxvs7MeMnOFR1mO08TDvulrY6QNTu/oYZCXRKt\ndUKv9N4itkohTTj83LJ9el5KDn4BzKdyAeqnSXJqforPhcQn+m3oyJMEwk2ESjQt\nkT5bVHjnbRK8vfWVWO8BZ15abFVkRx4KkCW5S8oN0X4mSt2/ZJtNWCbjhYwbe4Pz\nQmyFhVTSnBdj4syh+y29hSnArt2uqYMPWWTA1tj18QKBgQDc5kFbIKQztzgDO3YU\n8XWIsSlyhZvbsIenc0re3pVPElci9uHf2rWDlP3/Rp2V66+P8VPS9X8UkfFLKN3o\nS21RxM8xHqOeh6QDVt7KXJaZQeflx6yTQfuEI+4h4eid04WOlfUqyToT/BK+OsKt\ncWFuJ9ne29v617t9Dcq2ZVySEQKBgQDMgGCL7uZbZkVqU7pGn1CtfLDnbOrUUAWn\nen4MO75qCrVSQ2h51SYAyEBgDP4ebsiMHYXkBDahbuKQfRg+R2k1ezNy/6g2H774\n0cnPOwutyaCM/M1Wryuoqfvafau31ohe4QKPnnCJ7hwAnyv5pHBSNml00mZYwWpP\nNkijfEalJQKBgQCP5QHf3bR457n6CQrTe7Knd1hbfINZqXXEc4rrAS1b08OlSBM9\nIhgpfa2zU4mltmCnsHl9K2Q7vxHidt2Oy0uL/1tEUQQeaZdCgZ0hTwzfCpqICPj2\n9/1iR5GAyssfvED879xDoc9OY17GQjq8huYDvrviu29hyJQeUxSgmgiiMQKBgEhn\nD0ebznz/qYXqnOHSF/tEUVGuUznWFxpjmOr14AWlQuscKIox9+GBBKG9F99oc6J/\n9V50S28+VgK393RdThd8RgvqDgETnkZz6BJxokHmR+yCuKR/ImL1w9Boe/p7fw6w\ndXqpqsh6v/lMYYJiQM4qq42LzGaSG/RtkKwpHM3tAoGBAL4D7xZ5R9IVwAYlH47M\ntar5RIqlhS19x4kP/X8/PO71lwOrjQqVQXzBxAM7DbcGQiaGqkE+8mzq3cdLZNMH\nHHagKPkQFBff4nSgG9FHszQ0RXgPi2NcWouXPM74Tk9ouyqPvHZ3J9TZOEMj7c6L\nDpUYOEuAVveCiFOl9v5ekOWu\n-----END PRIVATE KEY-----\n",
+  "client_email": "gpay-wallet9@apt-mark-412207.iam.gserviceaccount.com",
+  "client_id": "105282660613028914576",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gpay-wallet9%40apt-mark-412207.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
